@@ -5,3 +5,4 @@ import { galleryItems } from './gallery-items';
 console.log(galleryItems);
 
 console.log("Hello World!");
+console.log("commit");
